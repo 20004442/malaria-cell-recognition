@@ -8,7 +8,7 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 Using data augmentation in the Convolutional Neural Network approach decreases the chances of overfitting. Thus, Malaria detection systems using deep learning proved to be faster than most of the traditional techniques. A Convolutional Neural Network was developed and trained to classify between the parasitized and uninfected smear blood cell images. The classical image features are extracted by CNN which can extract theimage features in three different categories – low-level, mid-level, and high-level features.
 
 ## Neural Network Model
-![image](https://user-images.githubusercontent.com/75235813/194770274-1ee156eb-1eae-446c-9569-f15d717eb1c4.png)
+![image](https://user-images.githubusercontent.com/75235813/204075596-77ed8812-400a-4414-ad0d-4fa1cda2ecc1.png)
 
 
 ## DESIGN STEPS
@@ -167,7 +167,7 @@ else:
 
 ### Confusion Matrix
 
-![image](https://user-images.githubusercontent.com/75235813/194770238-a0378cac-c6a6-4765-afed-09a8e7ea98b1.png)
+![image](https://user-images.githubusercontent.com/75235813/204075607-0baa85bb-d4d5-4c1f-a561-859231c7227b.png)
 
 
 ### New Sample Data Prediction
